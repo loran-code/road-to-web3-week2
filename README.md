@@ -22,4 +22,4 @@
 
 #### Social
 
-:herb: [coding.lens](https://lenster.xyz/u/coding.lens) :herb:
+:herb: [coding.lens](https://lenster.xyz/u/coding.lens) :herb:# road-to-web3-week2
