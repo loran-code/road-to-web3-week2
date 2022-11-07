@@ -1,4 +1,4 @@
-#  NFT Smart Contract (ERC721) - week 1
+#  Road to web3 - week 2
 
 :book: [Alchemy University](https://docs.alchemy.com/docs/1-how-to-develop-an-nft-smart-contract-erc721-with-alchemy): How to Develop an NFT Smart Contract (ERC721) with Alchemy
 
