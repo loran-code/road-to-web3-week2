@@ -1,32 +1,26 @@
-#  Road to web3 - week 2
+#  Road to web3 - week 2 - backend
 
 :book: [Alchemy University](https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp): How to Build "Buy Me a Coffee" DeFi dapp
 
-#### Proof
+#### Proof ☕
 
-:globe_with_meridians: [Deployed NFT Smart Contract](https://goerli.etherscan.io/address/0xb985b513ef1a2d545a1526bec9c48c7122d7115d)
+:globe_with_meridians: [Deployed a 'Buy Me A Coffee' Smart Contract on goerli testnet](https://goerli.etherscan.io/address/0x7ae441E4fEA8d4884577cC3e0e4B7f994862E185)
 
-:globe_with_meridians: [Contract code in Remix IDEA](https://remix.ethereum.org/address/0xb985b513ef1a2d545a1526bec9c48c7122d7115d)
-
-:globe_with_meridians: [OpenSea NFT](https://testnets.opensea.io/assets/goerli/0x244fa2d054a839d50eaff3e31abe33681a327b4a/0)
-
-
-Screenshot confirming the implemented require statement does not let a wallet mint more than the maximum amount specified.
+Screenshot confirming that only the owner can change the withdraw address.
 
 <p align="center">
-<img src="images/proof.png" width="50%" height="50%" />
+<img src="images/proof1.jpg" width="50%" height="50%" />
 </p>
 
-#### Learned 
+:globe_with_meridians: [TX of change owner of the withdraw address](https://goerli.etherscan.io/tx/0x1930423e67b734baf0c1df4ec2485f48adc5da853fe9961775afe4a29ebfc23e)
 
-:globe_with_meridians: How to use [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/wizard) contract wizard.
+:globe_with_meridians: [TX of new owner withdrawing eth from the contract](https://goerli.etherscan.io/tx/0xbb34059c53a77fe16259fc300e7b38cdc1f55a362bd4a3a074d95455c8acf915)
 
-:globe_with_meridians: How to use [Remix](https://remix.ethereum.org) for online (browser) solidity smart contract development.
 
-:globe_with_meridians: How to use [Alchemy](https://www.alchemy.com/) as an RPC provider to write and query the goerli testnet blockchain.
+#### Learned ☕
 
-:globe_with_meridians: How to use [Filebase](https://www.filebase.com/) to host metadata on IPFS.
+:globe_with_meridians: How to use [Metamask](https://metamask.io/) as an interface for smart contract deployment
 
-#### Social
+#### Social ☕
 
 :herb: [coding.lens](https://lenster.xyz/u/coding.lens) :herb:
